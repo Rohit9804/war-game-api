@@ -67,13 +67,14 @@ h2 {
 }
 
 
-@media (max-width: 480px){
-body{
-    font-size:400%;
-    background-size: cover;
-}
-div.card-slot {
-    height: 360px;
-    width: calc(360px * 5 / 7);
-}
-}
+@media (max-width: 480px) {
+
+    body{
+        font-size:150%;
+        background-size: cover;
+    }
+    div.card-slot {
+        height: 240px;
+        width: calc(240px * 5 / 7);
+    }
+    }
