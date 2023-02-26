@@ -77,4 +77,14 @@ h2 {
         height: 240px;
         width: calc(240px * 5 / 7);
     }
+    #header{
+        margin :0;
+        text-align: center;
+    }
+    #computer-score {
+        margin-bottom: 0px;
+    }
+    #my-score{
+        margin-top: 0px;
+    }
     }
